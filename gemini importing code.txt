@@ -1,0 +1,1 @@
+pip install google-generativeai (need to run this in terimnal/vscode terimnal only one time (only first time))

@@ -1,0 +1,58 @@
+ Question : what is laptop 
+ Answer : A laptop is a **portable computer** that combines a display, keyboard, touchpad, and battery in a single unit. It's designed for **on-the-go use** and offers **similar functionality** to a desktop computer, but in a **smaller and lighter form factor**. 
+ 
+ 
+ Question : what is mini laptop 
+ Answer : A mini laptop, also called a **netbook**, is a small, lightweight laptop with a smaller screen (usually 10-11 inches), less powerful processor, and limited features compared to a regular laptop. They're known for their **portability** and **affordability**, often used for basic tasks like browsing, emailing, and light productivity. 
+ 
+ 
+ Question : what is the use of Pi auto going 
+ Answer : Pi-hole is a network-level ad blocker. It blocks ads and trackers before they even reach your devices, making your browsing experience faster and more private. 
+ 
+ 
+ Question : what is pi auto GUI 
+ Answer : Pi-hole Auto GUI is a **web-based interface** that makes managing your Pi-hole ad blocker **easier**. It lets you:
+
+* **Control your Pi-hole** from any device with a web browser
+* **View and manage blocked ads**
+* **Configure your Pi-hole's settings**
+* **Monitor your network's activity**
+* **Get automatic updates** for Pi-hole and its software
+
+Essentially, it simplifies the process of using Pi-hole by providing a user-friendly interface, removing the need to interact with the command line. 
+ 
+ 
+ Question : what is pi auto GUI in Python 
+ Answer : Pi Auto GUI is a Python library that lets you **create graphical user interfaces (GUIs) for Raspberry Pi projects without writing a single line of code.** It uses a **visual editor** to drag-and-drop widgets, set their properties, and connect them to your Python code. This makes it **easy for beginners** to create interactive GUIs for their projects.
+
+Here's a **quick rundown:**
+
+* **Drag-and-Drop GUI Creation:** Build your GUI visually.
+* **Code Generation:**  Pi Auto GUI automatically generates the Python code for your GUI.
+* **Connect to Code:** Easily link your GUI elements to your Python logic.
+* **Raspberry Pi Focused:** Designed specifically for Raspberry Pi.
+* **Simple and Beginner-Friendly:** No coding experience needed to get started.
+
+**In short, Pi Auto GUI streamlines GUI development for Raspberry Pi projects by offering a visual, code-free approach.**
+ 
+ 
+ Question : who is Narendra Modi 
+ Answer : Narendra Modi is the **current Prime Minister of India**. He is a strong leader known for his **economic reforms**, **nationalistic policies**, and **controversial past**. 
+
+Here's a short breakdown:
+
+* **Political Figure:** Leader of the Bharatiya Janata Party (BJP) and Prime Minister since 2014.
+* **Economic Reforms:** Implemented policies like "Make in India" to boost manufacturing and economic growth.
+* **Nationalistic Approach:** Focuses on national security, Hindu identity, and strong foreign policy.
+* **Controversial Past:** Accused of human rights abuses during his time as Chief Minister of Gujarat.
+* **Popular Leader:** Has a large and devoted following, particularly among Hindus.
+
+He's a complex figure with both supporters and detractors, and his legacy is still being written. 
+ 
+ 
+ Question : what is laptop 
+
+ Answer : A laptop is a **portable computer** that combines the functionality of a desktop computer in a compact and lightweight design. 
+ 
+
+

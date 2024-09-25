@@ -1,0 +1,3 @@
+Run below command to import all packages
+
+pip install -r requirements.txt
