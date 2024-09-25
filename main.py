@@ -6,6 +6,8 @@ import requests
 import os
 import google.generativeai as genai
 
+# Speak command "assistant" active Argus.
+
 # Integrated with generative ai
 # Requires your generativeai api key for running ai part.
 
